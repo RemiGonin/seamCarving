@@ -1,0 +1,2 @@
+# seamCarving
+Seam carving experiments
